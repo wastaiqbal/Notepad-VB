@@ -1,0 +1,9 @@
+c:\users\muhamad iqbal wp\documents\visual studio 2010\Projects\Buku\NotepadVB\NotepadVB\bin\Debug\NotepadVB.exe
+c:\users\muhamad iqbal wp\documents\visual studio 2010\Projects\Buku\NotepadVB\NotepadVB\bin\Debug\NotepadVB.pdb
+c:\users\muhamad iqbal wp\documents\visual studio 2010\Projects\Buku\NotepadVB\NotepadVB\bin\Debug\NotepadVB.xml
+c:\users\muhamad iqbal wp\documents\visual studio 2010\Projects\Buku\NotepadVB\NotepadVB\obj\x86\Debug\NotepadVB.Form1.resources
+c:\users\muhamad iqbal wp\documents\visual studio 2010\Projects\Buku\NotepadVB\NotepadVB\obj\x86\Debug\NotepadVB.Resources.resources
+c:\users\muhamad iqbal wp\documents\visual studio 2010\Projects\Buku\NotepadVB\NotepadVB\obj\x86\Debug\NotepadVB.vbproj.GenerateResource.Cache
+c:\users\muhamad iqbal wp\documents\visual studio 2010\Projects\Buku\NotepadVB\NotepadVB\obj\x86\Debug\NotepadVB.exe
+c:\users\muhamad iqbal wp\documents\visual studio 2010\Projects\Buku\NotepadVB\NotepadVB\obj\x86\Debug\NotepadVB.xml
+c:\users\muhamad iqbal wp\documents\visual studio 2010\Projects\Buku\NotepadVB\NotepadVB\obj\x86\Debug\NotepadVB.pdb
